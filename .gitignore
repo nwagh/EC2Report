@@ -4,4 +4,7 @@ target/*
 output/*
 src/test
 src/test/*
-
+.settings
+.classpath
+.project
+.gitignore
