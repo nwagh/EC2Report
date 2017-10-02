@@ -14,9 +14,9 @@ Ensure that aws credentials are stored on your laptop or PC
  
 #### Replace following in your credentials files 
 
-##### [default]
-##### aws_access_key_id = <Your Access Key>
-##### aws_secret_access_key = <Your secret access>
+[default]
+aws_access_key_id = <<Your Access Key>>
+aws_secret_access_key = <<Your secret access>>
 
 #### Ensure Java 8 is installed
 
