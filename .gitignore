@@ -2,3 +2,6 @@ target/*
 !target
 !target/ec2-report-1.0-SNAPSHOT-jar-with-dependencies.jar
 output/*
+src/test
+src/test/*
+
